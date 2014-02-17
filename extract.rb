@@ -31,7 +31,7 @@ end
 def region_map(region_id)
   map = {:nodes => {}, :edges => []}
 
-  query = 'select * from mapSolarSystemJumps where fromRegionID == ?'
+  query = 'select * from mapSolarSystemJumps where fromRegionID == ?1 and toRegionID == ?1'
   DB.execute(query, region_id) do |edge|
     map[:edges].push(edge_to_dict(edge))
   end
