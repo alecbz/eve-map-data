@@ -1,0 +1,694 @@
+{
+  "nodes": {
+    "30005295": {
+      "name": "Murethand",
+      "security": 0.286453,
+      "region": "Verge Vendor"
+    },
+    "30005296": {
+      "name": "Melmaniel",
+      "security": 0.255253,
+      "region": "Verge Vendor"
+    },
+    "30005297": {
+      "name": "Ouelletta",
+      "security": 0.418579,
+      "region": "Verge Vendor"
+    },
+    "30005298": {
+      "name": "Costolle",
+      "security": 0.20681,
+      "region": "Verge Vendor"
+    },
+    "30005299": {
+      "name": "Muetralle",
+      "security": 0.239964,
+      "region": "Verge Vendor"
+    },
+    "30005300": {
+      "name": "Loes",
+      "security": 0.265936,
+      "region": "Verge Vendor"
+    },
+    "30005301": {
+      "name": "Tourier",
+      "security": 0.911134,
+      "region": "Verge Vendor"
+    },
+    "30005302": {
+      "name": "Alenia",
+      "security": 0.923913,
+      "region": "Verge Vendor"
+    },
+    "30005303": {
+      "name": "Merolles",
+      "security": 0.884628,
+      "region": "Verge Vendor"
+    },
+    "30005304": {
+      "name": "Alentene",
+      "security": 0.866783,
+      "region": "Verge Vendor"
+    },
+    "30005305": {
+      "name": "Cistuvaert",
+      "security": 1.0,
+      "region": "Verge Vendor"
+    },
+    "30005306": {
+      "name": "Vaere",
+      "security": 0.821577,
+      "region": "Verge Vendor"
+    },
+    "30005307": {
+      "name": "Aidart",
+      "security": 0.612358,
+      "region": "Verge Vendor"
+    },
+    "30005308": {
+      "name": "Jufvitte",
+      "security": 0.520488,
+      "region": "Verge Vendor"
+    },
+    "30005309": {
+      "name": "Ansalle",
+      "security": 0.620712,
+      "region": "Verge Vendor"
+    },
+    "30005310": {
+      "name": "Scheenins",
+      "security": 0.537429,
+      "region": "Verge Vendor"
+    },
+    "30005311": {
+      "name": "Amygnon",
+      "security": 0.637569,
+      "region": "Verge Vendor"
+    },
+    "30005312": {
+      "name": "Gisleres",
+      "security": 0.761383,
+      "region": "Verge Vendor"
+    },
+    "30005313": {
+      "name": "Ellmay",
+      "security": 0.861044,
+      "region": "Verge Vendor"
+    },
+    "30005314": {
+      "name": "Theruesse",
+      "security": 0.879221,
+      "region": "Verge Vendor"
+    },
+    "30005315": {
+      "name": "Eletta",
+      "security": 0.943509,
+      "region": "Verge Vendor"
+    },
+    "30005316": {
+      "name": "Luse",
+      "security": 0.892424,
+      "region": "Verge Vendor"
+    },
+    "30005317": {
+      "name": "Ekuenbiron",
+      "security": 0.793052,
+      "region": "Verge Vendor"
+    },
+    "30005318": {
+      "name": "Vay",
+      "security": 0.758522,
+      "region": "Verge Vendor"
+    },
+    "30005319": {
+      "name": "Raneilles",
+      "security": 0.550235,
+      "region": "Verge Vendor"
+    },
+    "30005320": {
+      "name": "Hevrice",
+      "security": 0.418609,
+      "region": "Verge Vendor"
+    },
+    "30005321": {
+      "name": "Jovainnon",
+      "security": 0.298141,
+      "region": "Verge Vendor"
+    },
+    "30005322": {
+      "name": "Scolluzer",
+      "security": 0.822736,
+      "region": "Verge Vendor"
+    },
+    "30005323": {
+      "name": "Sortet",
+      "security": 0.775814,
+      "region": "Verge Vendor"
+    },
+    "30005324": {
+      "name": "Claulenne",
+      "security": 0.718714,
+      "region": "Verge Vendor"
+    },
+    "30005325": {
+      "name": "Masalle",
+      "security": 0.783203,
+      "region": "Verge Vendor"
+    },
+    "30005326": {
+      "name": "Annelle",
+      "security": 0.757017,
+      "region": "Verge Vendor"
+    },
+    "30005327": {
+      "name": "Chesiette",
+      "security": 0.572705,
+      "region": "Verge Vendor"
+    },
+    "30005328": {
+      "name": "Reblier",
+      "security": 0.398014,
+      "region": "Verge Vendor"
+    },
+    "30005329": {
+      "name": "Amoderia",
+      "security": 0.404852,
+      "region": "Verge Vendor"
+    },
+    "30005330": {
+      "name": "Arraron",
+      "security": 0.471987,
+      "region": "Verge Vendor"
+    },
+    "30005331": {
+      "name": "Chantrousse",
+      "security": 0.639317,
+      "region": "Verge Vendor"
+    },
+    "30005332": {
+      "name": "Osmomonne",
+      "security": 0.768066,
+      "region": "Verge Vendor"
+    },
+    "30005333": {
+      "name": "Stou",
+      "security": 0.518818,
+      "region": "Verge Vendor"
+    },
+    "30005334": {
+      "name": "Tierijev",
+      "security": 0.83797,
+      "region": "Verge Vendor"
+    },
+    "30015305": {
+      "name": "Adallier",
+      "security": 0.885123,
+      "region": "Verge Vendor"
+    },
+    "30025305": {
+      "name": "Channace",
+      "security": 0.899808,
+      "region": "Verge Vendor"
+    },
+    "30035305": {
+      "name": "Clacille",
+      "security": 0.870855,
+      "region": "Verge Vendor"
+    },
+    "30045305": {
+      "name": "Clellinon",
+      "security": 0.848466,
+      "region": "Verge Vendor"
+    }
+  },
+  "edges": [
+    {
+      "from": 30005295,
+      "to": 30004975
+    },
+    {
+      "from": 30005295,
+      "to": 30004982
+    },
+    {
+      "from": 30005295,
+      "to": 30005296
+    },
+    {
+      "from": 30005296,
+      "to": 30005295
+    },
+    {
+      "from": 30005296,
+      "to": 30005297
+    },
+    {
+      "from": 30005296,
+      "to": 30005298
+    },
+    {
+      "from": 30005297,
+      "to": 30005296
+    },
+    {
+      "from": 30005297,
+      "to": 30005300
+    },
+    {
+      "from": 30005297,
+      "to": 30005308
+    },
+    {
+      "from": 30005298,
+      "to": 30005296
+    },
+    {
+      "from": 30005298,
+      "to": 30005299
+    },
+    {
+      "from": 30005299,
+      "to": 30005298
+    },
+    {
+      "from": 30005299,
+      "to": 30005320
+    },
+    {
+      "from": 30005300,
+      "to": 30003787
+    },
+    {
+      "from": 30005300,
+      "to": 30005297
+    },
+    {
+      "from": 30005301,
+      "to": 30005204
+    },
+    {
+      "from": 30005301,
+      "to": 30005229
+    },
+    {
+      "from": 30005301,
+      "to": 30005302
+    },
+    {
+      "from": 30005301,
+      "to": 30005303
+    },
+    {
+      "from": 30005301,
+      "to": 30025305
+    },
+    {
+      "from": 30005302,
+      "to": 30005301
+    },
+    {
+      "from": 30005302,
+      "to": 30005304
+    },
+    {
+      "from": 30005302,
+      "to": 30005306
+    },
+    {
+      "from": 30005303,
+      "to": 30005199
+    },
+    {
+      "from": 30005303,
+      "to": 30005301
+    },
+    {
+      "from": 30005303,
+      "to": 30005304
+    },
+    {
+      "from": 30005304,
+      "to": 30005302
+    },
+    {
+      "from": 30005304,
+      "to": 30005303
+    },
+    {
+      "from": 30005304,
+      "to": 30005305
+    },
+    {
+      "from": 30005304,
+      "to": 30005306
+    },
+    {
+      "from": 30005304,
+      "to": 30005322
+    },
+    {
+      "from": 30005304,
+      "to": 30015305
+    },
+    {
+      "from": 30005305,
+      "to": 30005304
+    },
+    {
+      "from": 30005305,
+      "to": 30005307
+    },
+    {
+      "from": 30005305,
+      "to": 30005315
+    },
+    {
+      "from": 30005306,
+      "to": 30005302
+    },
+    {
+      "from": 30005306,
+      "to": 30005304
+    },
+    {
+      "from": 30005307,
+      "to": 30003794
+    },
+    {
+      "from": 30005307,
+      "to": 30003843
+    },
+    {
+      "from": 30005307,
+      "to": 30005305
+    },
+    {
+      "from": 30005308,
+      "to": 30005297
+    },
+    {
+      "from": 30005308,
+      "to": 30005309
+    },
+    {
+      "from": 30005308,
+      "to": 30005310
+    },
+    {
+      "from": 30005308,
+      "to": 30005311
+    },
+    {
+      "from": 30005309,
+      "to": 30005308
+    },
+    {
+      "from": 30005309,
+      "to": 30005312
+    },
+    {
+      "from": 30005310,
+      "to": 30005308
+    },
+    {
+      "from": 30005310,
+      "to": 30005318
+    },
+    {
+      "from": 30005311,
+      "to": 30005308
+    },
+    {
+      "from": 30005312,
+      "to": 30005309
+    },
+    {
+      "from": 30005312,
+      "to": 30005313
+    },
+    {
+      "from": 30005312,
+      "to": 30005322
+    },
+    {
+      "from": 30005313,
+      "to": 30005312
+    },
+    {
+      "from": 30005313,
+      "to": 30005314
+    },
+    {
+      "from": 30005314,
+      "to": 30005313
+    },
+    {
+      "from": 30005315,
+      "to": 30005305
+    },
+    {
+      "from": 30005315,
+      "to": 30005316
+    },
+    {
+      "from": 30005315,
+      "to": 30005318
+    },
+    {
+      "from": 30005315,
+      "to": 30035305
+    },
+    {
+      "from": 30005316,
+      "to": 30005315
+    },
+    {
+      "from": 30005316,
+      "to": 30005317
+    },
+    {
+      "from": 30005316,
+      "to": 30005318
+    },
+    {
+      "from": 30005316,
+      "to": 30045305
+    },
+    {
+      "from": 30005317,
+      "to": 30005316
+    },
+    {
+      "from": 30005317,
+      "to": 30005319
+    },
+    {
+      "from": 30005318,
+      "to": 30005310
+    },
+    {
+      "from": 30005318,
+      "to": 30005315
+    },
+    {
+      "from": 30005318,
+      "to": 30005316
+    },
+    {
+      "from": 30005318,
+      "to": 30005319
+    },
+    {
+      "from": 30005319,
+      "to": 30005317
+    },
+    {
+      "from": 30005319,
+      "to": 30005318
+    },
+    {
+      "from": 30005319,
+      "to": 30005320
+    },
+    {
+      "from": 30005320,
+      "to": 30005299
+    },
+    {
+      "from": 30005320,
+      "to": 30005319
+    },
+    {
+      "from": 30005320,
+      "to": 30005321
+    },
+    {
+      "from": 30005321,
+      "to": 30005008
+    },
+    {
+      "from": 30005321,
+      "to": 30005320
+    },
+    {
+      "from": 30005322,
+      "to": 30005304
+    },
+    {
+      "from": 30005322,
+      "to": 30005312
+    },
+    {
+      "from": 30005322,
+      "to": 30005323
+    },
+    {
+      "from": 30005322,
+      "to": 30005332
+    },
+    {
+      "from": 30005323,
+      "to": 30005322
+    },
+    {
+      "from": 30005323,
+      "to": 30005324
+    },
+    {
+      "from": 30005324,
+      "to": 30005323
+    },
+    {
+      "from": 30005324,
+      "to": 30005325
+    },
+    {
+      "from": 30005325,
+      "to": 30005324
+    },
+    {
+      "from": 30005325,
+      "to": 30005326
+    },
+    {
+      "from": 30005326,
+      "to": 30005325
+    },
+    {
+      "from": 30005326,
+      "to": 30005327
+    },
+    {
+      "from": 30005327,
+      "to": 30005326
+    },
+    {
+      "from": 30005327,
+      "to": 30005328
+    },
+    {
+      "from": 30005328,
+      "to": 30003280
+    },
+    {
+      "from": 30005328,
+      "to": 30005327
+    },
+    {
+      "from": 30005329,
+      "to": 30004978
+    },
+    {
+      "from": 30005329,
+      "to": 30005330
+    },
+    {
+      "from": 30005329,
+      "to": 30005333
+    },
+    {
+      "from": 30005330,
+      "to": 30005004
+    },
+    {
+      "from": 30005330,
+      "to": 30005329
+    },
+    {
+      "from": 30005330,
+      "to": 30005331
+    },
+    {
+      "from": 30005330,
+      "to": 30005333
+    },
+    {
+      "from": 30005331,
+      "to": 30005203
+    },
+    {
+      "from": 30005331,
+      "to": 30005330
+    },
+    {
+      "from": 30005331,
+      "to": 30005332
+    },
+    {
+      "from": 30005331,
+      "to": 30005334
+    },
+    {
+      "from": 30005332,
+      "to": 30005322
+    },
+    {
+      "from": 30005332,
+      "to": 30005331
+    },
+    {
+      "from": 30005332,
+      "to": 30005334
+    },
+    {
+      "from": 30005333,
+      "to": 30005329
+    },
+    {
+      "from": 30005333,
+      "to": 30005330
+    },
+    {
+      "from": 30005334,
+      "to": 30002812
+    },
+    {
+      "from": 30005334,
+      "to": 30005025
+    },
+    {
+      "from": 30005334,
+      "to": 30005331
+    },
+    {
+      "from": 30005334,
+      "to": 30005332
+    },
+    {
+      "from": 30015305,
+      "to": 30005304
+    },
+    {
+      "from": 30025305,
+      "to": 30005301
+    },
+    {
+      "from": 30035305,
+      "to": 30005315
+    },
+    {
+      "from": 30045305,
+      "to": 30005316
+    }
+  ]
+}

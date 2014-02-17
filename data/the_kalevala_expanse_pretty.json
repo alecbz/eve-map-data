@@ -1,0 +1,1099 @@
+{
+  "nodes": {
+    "30002820": {
+      "name": "N-JK02",
+      "security": -0.175929,
+      "region": "The Kalevala Expanse"
+    },
+    "30002821": {
+      "name": "JT2I-7",
+      "security": -0.119743,
+      "region": "The Kalevala Expanse"
+    },
+    "30002822": {
+      "name": "XTJ-5Q",
+      "security": -0.169583,
+      "region": "The Kalevala Expanse"
+    },
+    "30002823": {
+      "name": "1-KCSA",
+      "security": -0.183564,
+      "region": "The Kalevala Expanse"
+    },
+    "30002824": {
+      "name": "UJXC-B",
+      "security": -0.143278,
+      "region": "The Kalevala Expanse"
+    },
+    "30002825": {
+      "name": "UDVW-O",
+      "security": -0.079062,
+      "region": "The Kalevala Expanse"
+    },
+    "30002826": {
+      "name": "F48K-D",
+      "security": -0.215479,
+      "region": "The Kalevala Expanse"
+    },
+    "30002827": {
+      "name": "FBH-JN",
+      "security": -0.513567,
+      "region": "The Kalevala Expanse"
+    },
+    "30002828": {
+      "name": "BVRQ-O",
+      "security": -0.524578,
+      "region": "The Kalevala Expanse"
+    },
+    "30002829": {
+      "name": "QX-4HO",
+      "security": -0.662844,
+      "region": "The Kalevala Expanse"
+    },
+    "30002830": {
+      "name": "LS3-HP",
+      "security": -0.666246,
+      "region": "The Kalevala Expanse"
+    },
+    "30002831": {
+      "name": "SH6X-F",
+      "security": -0.402402,
+      "region": "The Kalevala Expanse"
+    },
+    "30002832": {
+      "name": "6V-D0E",
+      "security": -0.511844,
+      "region": "The Kalevala Expanse"
+    },
+    "30002833": {
+      "name": "SG-3HY",
+      "security": -0.270955,
+      "region": "The Kalevala Expanse"
+    },
+    "30002834": {
+      "name": "AU2V-J",
+      "security": -0.197446,
+      "region": "The Kalevala Expanse"
+    },
+    "30002835": {
+      "name": "SY-0AM",
+      "security": -0.157152,
+      "region": "The Kalevala Expanse"
+    },
+    "30002836": {
+      "name": "A-YB15",
+      "security": -0.590294,
+      "region": "The Kalevala Expanse"
+    },
+    "30002837": {
+      "name": "QZX-L9",
+      "security": -0.184515,
+      "region": "The Kalevala Expanse"
+    },
+    "30002838": {
+      "name": "D-6PKO",
+      "security": -0.125541,
+      "region": "The Kalevala Expanse"
+    },
+    "30002839": {
+      "name": "RAI-0E",
+      "security": -0.116936,
+      "region": "The Kalevala Expanse"
+    },
+    "30002840": {
+      "name": "MN9P-A",
+      "security": -0.101873,
+      "region": "The Kalevala Expanse"
+    },
+    "30002841": {
+      "name": "TA9T-P",
+      "security": -0.148993,
+      "region": "The Kalevala Expanse"
+    },
+    "30002842": {
+      "name": "L-TLFU",
+      "security": -0.046301,
+      "region": "The Kalevala Expanse"
+    },
+    "30002843": {
+      "name": "BM-VYZ",
+      "security": -0.054336,
+      "region": "The Kalevala Expanse"
+    },
+    "30002844": {
+      "name": "Q-GICU",
+      "security": -0.137353,
+      "region": "The Kalevala Expanse"
+    },
+    "30002845": {
+      "name": "EPCD-D",
+      "security": -0.012715,
+      "region": "The Kalevala Expanse"
+    },
+    "30002846": {
+      "name": "0S1-GI",
+      "security": -0.301213,
+      "region": "The Kalevala Expanse"
+    },
+    "30002847": {
+      "name": "L-GY1B",
+      "security": -0.178506,
+      "region": "The Kalevala Expanse"
+    },
+    "30002848": {
+      "name": "74-DRC",
+      "security": -0.136319,
+      "region": "The Kalevala Expanse"
+    },
+    "30002849": {
+      "name": "LE-67X",
+      "security": -0.199186,
+      "region": "The Kalevala Expanse"
+    },
+    "30002850": {
+      "name": "B1UE-J",
+      "security": -0.458101,
+      "region": "The Kalevala Expanse"
+    },
+    "30002851": {
+      "name": "O31W-6",
+      "security": -0.464069,
+      "region": "The Kalevala Expanse"
+    },
+    "30002852": {
+      "name": "M3-H2Y",
+      "security": -0.299905,
+      "region": "The Kalevala Expanse"
+    },
+    "30002853": {
+      "name": "G-KCFT",
+      "security": -0.309242,
+      "region": "The Kalevala Expanse"
+    },
+    "30002854": {
+      "name": "WNM-V0",
+      "security": -0.463842,
+      "region": "The Kalevala Expanse"
+    },
+    "30002855": {
+      "name": "6FS-CZ",
+      "security": -0.49435,
+      "region": "The Kalevala Expanse"
+    },
+    "30002856": {
+      "name": "HPV-RJ",
+      "security": -0.757977,
+      "region": "The Kalevala Expanse"
+    },
+    "30002857": {
+      "name": "H7S-5I",
+      "security": -0.386833,
+      "region": "The Kalevala Expanse"
+    },
+    "30002858": {
+      "name": "C3J0-O",
+      "security": -0.426093,
+      "region": "The Kalevala Expanse"
+    },
+    "30002859": {
+      "name": "GSO-SR",
+      "security": -0.139127,
+      "region": "The Kalevala Expanse"
+    },
+    "30002860": {
+      "name": "B3ZU-H",
+      "security": -0.283712,
+      "region": "The Kalevala Expanse"
+    },
+    "30002861": {
+      "name": "G4-QU6",
+      "security": -0.205204,
+      "region": "The Kalevala Expanse"
+    },
+    "30002862": {
+      "name": "V2-GZS",
+      "security": -0.419631,
+      "region": "The Kalevala Expanse"
+    },
+    "30002863": {
+      "name": "HD-HOZ",
+      "security": -0.848055,
+      "region": "The Kalevala Expanse"
+    },
+    "30002864": {
+      "name": "42G-OB",
+      "security": -0.855478,
+      "region": "The Kalevala Expanse"
+    },
+    "30002865": {
+      "name": "LEM-I1",
+      "security": -0.899778,
+      "region": "The Kalevala Expanse"
+    },
+    "30002866": {
+      "name": "1S-SU1",
+      "security": -1.0,
+      "region": "The Kalevala Expanse"
+    },
+    "30002867": {
+      "name": "ND-GL4",
+      "security": -0.758106,
+      "region": "The Kalevala Expanse"
+    },
+    "30002868": {
+      "name": "9-0QB7",
+      "security": -0.39682,
+      "region": "The Kalevala Expanse"
+    },
+    "30002869": {
+      "name": "M-75WN",
+      "security": -0.499043,
+      "region": "The Kalevala Expanse"
+    },
+    "30002870": {
+      "name": "PNFW-O",
+      "security": -0.53976,
+      "region": "The Kalevala Expanse"
+    },
+    "30002871": {
+      "name": "HVGR-R",
+      "security": -0.601868,
+      "region": "The Kalevala Expanse"
+    },
+    "30002872": {
+      "name": "K76A-3",
+      "security": -0.821322,
+      "region": "The Kalevala Expanse"
+    },
+    "30002873": {
+      "name": "K95-9I",
+      "security": -0.646943,
+      "region": "The Kalevala Expanse"
+    },
+    "30002874": {
+      "name": "R1O-GN",
+      "security": -0.125715,
+      "region": "The Kalevala Expanse"
+    },
+    "30002875": {
+      "name": "GQ-7SP",
+      "security": -0.061278,
+      "region": "The Kalevala Expanse"
+    },
+    "30002876": {
+      "name": "BGMZ-0",
+      "security": -0.069389,
+      "region": "The Kalevala Expanse"
+    },
+    "30002877": {
+      "name": "I2D3-5",
+      "security": -0.176816,
+      "region": "The Kalevala Expanse"
+    },
+    "30002878": {
+      "name": "FZX-PU",
+      "security": -0.133647,
+      "region": "The Kalevala Expanse"
+    },
+    "30002879": {
+      "name": "O9K-FT",
+      "security": -0.02814,
+      "region": "The Kalevala Expanse"
+    },
+    "30002880": {
+      "name": "RQOO-U",
+      "security": -0.406438,
+      "region": "The Kalevala Expanse"
+    },
+    "30002881": {
+      "name": "FB5U-I",
+      "security": -0.315878,
+      "region": "The Kalevala Expanse"
+    },
+    "30002882": {
+      "name": "BZ-BCK",
+      "security": -0.684784,
+      "region": "The Kalevala Expanse"
+    },
+    "30002883": {
+      "name": "5-VFC6",
+      "security": -0.41224,
+      "region": "The Kalevala Expanse"
+    },
+    "30002884": {
+      "name": "O5-YNW",
+      "security": -0.946231,
+      "region": "The Kalevala Expanse"
+    },
+    "30002885": {
+      "name": "86L-9F",
+      "security": -0.955398,
+      "region": "The Kalevala Expanse"
+    },
+    "30002886": {
+      "name": "IUU3-L",
+      "security": -0.985666,
+      "region": "The Kalevala Expanse"
+    },
+    "30002887": {
+      "name": "J-OAH2",
+      "security": -0.78234,
+      "region": "The Kalevala Expanse"
+    },
+    "30002888": {
+      "name": "S-LHPJ",
+      "security": -1.0,
+      "region": "The Kalevala Expanse"
+    }
+  },
+  "edges": [
+    {
+      "from": 30002820,
+      "to": 30002822
+    },
+    {
+      "from": 30002820,
+      "to": 30002847
+    },
+    {
+      "from": 30002821,
+      "to": 30002822
+    },
+    {
+      "from": 30002822,
+      "to": 30002820
+    },
+    {
+      "from": 30002822,
+      "to": 30002821
+    },
+    {
+      "from": 30002822,
+      "to": 30002823
+    },
+    {
+      "from": 30002823,
+      "to": 30002822
+    },
+    {
+      "from": 30002823,
+      "to": 30002824
+    },
+    {
+      "from": 30002823,
+      "to": 30002826
+    },
+    {
+      "from": 30002824,
+      "to": 30002823
+    },
+    {
+      "from": 30002824,
+      "to": 30002825
+    },
+    {
+      "from": 30002824,
+      "to": 30002826
+    },
+    {
+      "from": 30002825,
+      "to": 30000319
+    },
+    {
+      "from": 30002825,
+      "to": 30002824
+    },
+    {
+      "from": 30002826,
+      "to": 30002823
+    },
+    {
+      "from": 30002826,
+      "to": 30002824
+    },
+    {
+      "from": 30002826,
+      "to": 30002881
+    },
+    {
+      "from": 30002827,
+      "to": 30002828
+    },
+    {
+      "from": 30002827,
+      "to": 30002831
+    },
+    {
+      "from": 30002827,
+      "to": 30002850
+    },
+    {
+      "from": 30002828,
+      "to": 30002827
+    },
+    {
+      "from": 30002828,
+      "to": 30002829
+    },
+    {
+      "from": 30002829,
+      "to": 30002828
+    },
+    {
+      "from": 30002829,
+      "to": 30002830
+    },
+    {
+      "from": 30002830,
+      "to": 30002829
+    },
+    {
+      "from": 30002830,
+      "to": 30002832
+    },
+    {
+      "from": 30002831,
+      "to": 30002827
+    },
+    {
+      "from": 30002832,
+      "to": 30002830
+    },
+    {
+      "from": 30002833,
+      "to": 30002836
+    },
+    {
+      "from": 30002833,
+      "to": 30002837
+    },
+    {
+      "from": 30002833,
+      "to": 30002853
+    },
+    {
+      "from": 30002834,
+      "to": 30002835
+    },
+    {
+      "from": 30002834,
+      "to": 30002837
+    },
+    {
+      "from": 30002834,
+      "to": 30002838
+    },
+    {
+      "from": 30002835,
+      "to": 30002285
+    },
+    {
+      "from": 30002835,
+      "to": 30002834
+    },
+    {
+      "from": 30002835,
+      "to": 30002837
+    },
+    {
+      "from": 30002835,
+      "to": 30002838
+    },
+    {
+      "from": 30002836,
+      "to": 30002321
+    },
+    {
+      "from": 30002836,
+      "to": 30002833
+    },
+    {
+      "from": 30002837,
+      "to": 30001097
+    },
+    {
+      "from": 30002837,
+      "to": 30002833
+    },
+    {
+      "from": 30002837,
+      "to": 30002834
+    },
+    {
+      "from": 30002837,
+      "to": 30002835
+    },
+    {
+      "from": 30002837,
+      "to": 30002838
+    },
+    {
+      "from": 30002838,
+      "to": 30002834
+    },
+    {
+      "from": 30002838,
+      "to": 30002835
+    },
+    {
+      "from": 30002838,
+      "to": 30002837
+    },
+    {
+      "from": 30002839,
+      "to": 30002840
+    },
+    {
+      "from": 30002839,
+      "to": 30002841
+    },
+    {
+      "from": 30002840,
+      "to": 30002839
+    },
+    {
+      "from": 30002840,
+      "to": 30002842
+    },
+    {
+      "from": 30002840,
+      "to": 30002843
+    },
+    {
+      "from": 30002840,
+      "to": 30002848
+    },
+    {
+      "from": 30002841,
+      "to": 30002839
+    },
+    {
+      "from": 30002841,
+      "to": 30002844
+    },
+    {
+      "from": 30002842,
+      "to": 30002840
+    },
+    {
+      "from": 30002842,
+      "to": 30002843
+    },
+    {
+      "from": 30002842,
+      "to": 30002845
+    },
+    {
+      "from": 30002843,
+      "to": 30002840
+    },
+    {
+      "from": 30002843,
+      "to": 30002842
+    },
+    {
+      "from": 30002844,
+      "to": 30002841
+    },
+    {
+      "from": 30002844,
+      "to": 30002861
+    },
+    {
+      "from": 30002844,
+      "to": 30002874
+    },
+    {
+      "from": 30002845,
+      "to": 30002842
+    },
+    {
+      "from": 30002846,
+      "to": 30002848
+    },
+    {
+      "from": 30002846,
+      "to": 30002851
+    },
+    {
+      "from": 30002846,
+      "to": 30002852
+    },
+    {
+      "from": 30002847,
+      "to": 30002289
+    },
+    {
+      "from": 30002847,
+      "to": 30002820
+    },
+    {
+      "from": 30002847,
+      "to": 30002848
+    },
+    {
+      "from": 30002847,
+      "to": 30002849
+    },
+    {
+      "from": 30002848,
+      "to": 30002840
+    },
+    {
+      "from": 30002848,
+      "to": 30002846
+    },
+    {
+      "from": 30002848,
+      "to": 30002847
+    },
+    {
+      "from": 30002849,
+      "to": 30002847
+    },
+    {
+      "from": 30002850,
+      "to": 30001084
+    },
+    {
+      "from": 30002850,
+      "to": 30002827
+    },
+    {
+      "from": 30002850,
+      "to": 30002851
+    },
+    {
+      "from": 30002851,
+      "to": 30001057
+    },
+    {
+      "from": 30002851,
+      "to": 30002846
+    },
+    {
+      "from": 30002851,
+      "to": 30002850
+    },
+    {
+      "from": 30002851,
+      "to": 30002858
+    },
+    {
+      "from": 30002852,
+      "to": 30002846
+    },
+    {
+      "from": 30002853,
+      "to": 30002833
+    },
+    {
+      "from": 30002853,
+      "to": 30002854
+    },
+    {
+      "from": 30002853,
+      "to": 30002858
+    },
+    {
+      "from": 30002853,
+      "to": 30002860
+    },
+    {
+      "from": 30002854,
+      "to": 30002853
+    },
+    {
+      "from": 30002854,
+      "to": 30002855
+    },
+    {
+      "from": 30002854,
+      "to": 30002856
+    },
+    {
+      "from": 30002854,
+      "to": 30002858
+    },
+    {
+      "from": 30002854,
+      "to": 30002859
+    },
+    {
+      "from": 30002854,
+      "to": 30002860
+    },
+    {
+      "from": 30002855,
+      "to": 30002854
+    },
+    {
+      "from": 30002855,
+      "to": 30002857
+    },
+    {
+      "from": 30002856,
+      "to": 30002854
+    },
+    {
+      "from": 30002857,
+      "to": 30002855
+    },
+    {
+      "from": 30002857,
+      "to": 30002868
+    },
+    {
+      "from": 30002858,
+      "to": 30002851
+    },
+    {
+      "from": 30002858,
+      "to": 30002853
+    },
+    {
+      "from": 30002858,
+      "to": 30002854
+    },
+    {
+      "from": 30002859,
+      "to": 30002854
+    },
+    {
+      "from": 30002859,
+      "to": 30002860
+    },
+    {
+      "from": 30002860,
+      "to": 30002853
+    },
+    {
+      "from": 30002860,
+      "to": 30002854
+    },
+    {
+      "from": 30002860,
+      "to": 30002859
+    },
+    {
+      "from": 30002861,
+      "to": 30002844
+    },
+    {
+      "from": 30002861,
+      "to": 30002862
+    },
+    {
+      "from": 30002862,
+      "to": 30002861
+    },
+    {
+      "from": 30002862,
+      "to": 30002863
+    },
+    {
+      "from": 30002862,
+      "to": 30002864
+    },
+    {
+      "from": 30002863,
+      "to": 30002862
+    },
+    {
+      "from": 30002863,
+      "to": 30002864
+    },
+    {
+      "from": 30002863,
+      "to": 30002865
+    },
+    {
+      "from": 30002863,
+      "to": 30002867
+    },
+    {
+      "from": 30002864,
+      "to": 30002862
+    },
+    {
+      "from": 30002864,
+      "to": 30002863
+    },
+    {
+      "from": 30002864,
+      "to": 30002865
+    },
+    {
+      "from": 30002865,
+      "to": 30002863
+    },
+    {
+      "from": 30002865,
+      "to": 30002864
+    },
+    {
+      "from": 30002865,
+      "to": 30002866
+    },
+    {
+      "from": 30002865,
+      "to": 30002867
+    },
+    {
+      "from": 30002866,
+      "to": 30002472
+    },
+    {
+      "from": 30002866,
+      "to": 30002865
+    },
+    {
+      "from": 30002867,
+      "to": 30002863
+    },
+    {
+      "from": 30002867,
+      "to": 30002865
+    },
+    {
+      "from": 30002867,
+      "to": 30002873
+    },
+    {
+      "from": 30002868,
+      "to": 30002857
+    },
+    {
+      "from": 30002868,
+      "to": 30002869
+    },
+    {
+      "from": 30002868,
+      "to": 30002871
+    },
+    {
+      "from": 30002869,
+      "to": 30002868
+    },
+    {
+      "from": 30002869,
+      "to": 30002870
+    },
+    {
+      "from": 30002869,
+      "to": 30002871
+    },
+    {
+      "from": 30002869,
+      "to": 30002873
+    },
+    {
+      "from": 30002870,
+      "to": 30002869
+    },
+    {
+      "from": 30002870,
+      "to": 30002871
+    },
+    {
+      "from": 30002870,
+      "to": 30002872
+    },
+    {
+      "from": 30002871,
+      "to": 30002868
+    },
+    {
+      "from": 30002871,
+      "to": 30002869
+    },
+    {
+      "from": 30002871,
+      "to": 30002870
+    },
+    {
+      "from": 30002871,
+      "to": 30002873
+    },
+    {
+      "from": 30002872,
+      "to": 30002870
+    },
+    {
+      "from": 30002873,
+      "to": 30002867
+    },
+    {
+      "from": 30002873,
+      "to": 30002869
+    },
+    {
+      "from": 30002873,
+      "to": 30002871
+    },
+    {
+      "from": 30002874,
+      "to": 30002844
+    },
+    {
+      "from": 30002874,
+      "to": 30002875
+    },
+    {
+      "from": 30002874,
+      "to": 30002876
+    },
+    {
+      "from": 30002874,
+      "to": 30002877
+    },
+    {
+      "from": 30002874,
+      "to": 30002880
+    },
+    {
+      "from": 30002875,
+      "to": 30002874
+    },
+    {
+      "from": 30002875,
+      "to": 30002876
+    },
+    {
+      "from": 30002875,
+      "to": 30002877
+    },
+    {
+      "from": 30002875,
+      "to": 30002878
+    },
+    {
+      "from": 30002875,
+      "to": 30002879
+    },
+    {
+      "from": 30002876,
+      "to": 30002874
+    },
+    {
+      "from": 30002876,
+      "to": 30002875
+    },
+    {
+      "from": 30002876,
+      "to": 30002877
+    },
+    {
+      "from": 30002877,
+      "to": 30002874
+    },
+    {
+      "from": 30002877,
+      "to": 30002875
+    },
+    {
+      "from": 30002877,
+      "to": 30002876
+    },
+    {
+      "from": 30002877,
+      "to": 30002878
+    },
+    {
+      "from": 30002877,
+      "to": 30002880
+    },
+    {
+      "from": 30002878,
+      "to": 30002353
+    },
+    {
+      "from": 30002878,
+      "to": 30002875
+    },
+    {
+      "from": 30002878,
+      "to": 30002877
+    },
+    {
+      "from": 30002878,
+      "to": 30002879
+    },
+    {
+      "from": 30002879,
+      "to": 30002875
+    },
+    {
+      "from": 30002879,
+      "to": 30002878
+    },
+    {
+      "from": 30002880,
+      "to": 30002874
+    },
+    {
+      "from": 30002880,
+      "to": 30002877
+    },
+    {
+      "from": 30002881,
+      "to": 30002826
+    },
+    {
+      "from": 30002881,
+      "to": 30002882
+    },
+    {
+      "from": 30002882,
+      "to": 30002881
+    },
+    {
+      "from": 30002882,
+      "to": 30002883
+    },
+    {
+      "from": 30002882,
+      "to": 30002884
+    },
+    {
+      "from": 30002882,
+      "to": 30002887
+    },
+    {
+      "from": 30002883,
+      "to": 30002882
+    },
+    {
+      "from": 30002884,
+      "to": 30002882
+    },
+    {
+      "from": 30002884,
+      "to": 30002885
+    },
+    {
+      "from": 30002884,
+      "to": 30002886
+    },
+    {
+      "from": 30002885,
+      "to": 30002884
+    },
+    {
+      "from": 30002886,
+      "to": 30002884
+    },
+    {
+      "from": 30002886,
+      "to": 30002888
+    },
+    {
+      "from": 30002887,
+      "to": 30002882
+    },
+    {
+      "from": 30002888,
+      "to": 30002886
+    }
+  ]
+}
